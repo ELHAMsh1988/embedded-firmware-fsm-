@@ -1,11 +1,17 @@
-int main(void)
-{
-    system_init();
-    fsm_init();
+#include "fsm.h"
+#include <stdio.h>
 
-    while (1)
-    {
-        fsm_update();
-    }
+int main(void) {
+    FSM controller;
+    controller.state = STATE_IDLE;
+
+    fsm_print_state(&controller);
+
+    fsm_transition(&controller, EVENT_START);
+    fsm_print_state(&controller);
+
+    fsm_transition(&controller, EVENT_STOP);
+    fsm_print_state(&controller);
+
+    return 0;
 }
-
