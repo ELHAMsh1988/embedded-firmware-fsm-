@@ -1,1 +1,6 @@
+Current State: IDLE  
+Transition: IDLE -> RUNNING  
+Current State: RUNNING  
+Transition: RUNNING -> IDLE  
+Current State: IDLE
 
