@@ -28,3 +28,7 @@ Example outputs and FSM diagrams are available in the docs folder.
 - FSM design
 - Git version control
 
+## Simulation Output
+![Simulation Output]![bf9c4e51-37fe-4f8c-a5ee-a767ad3e53a8](https://github.com/user-attachments/assets/af3f21cb-b028-4089-83ec-1cc287be8516)
+
+
