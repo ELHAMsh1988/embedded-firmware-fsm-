@@ -34,7 +34,7 @@ Example outputs and FSM diagrams are available in the docs folder.
 ![338a6341-9e6a-41fe-924b-817520518b21](https://github.com/user-attachments/assets/92430c06-4f18-4ca2-be9c-e7e61d5853f5)
 
 ## Project Documentation
-[Project Description (PDF)](docs/Embedded_Firmware_FSM_Project.pdf)(https://github.com/user-attachments/files/24482652/Embedded_Firmware_FSM_Project.pdf)
+(docs/Embedded_Firmware_FSM_Project.pdf)(https://github.com/user-attachments/files/24482652/Embedded_Firmware_FSM_Project.pdf)
 
 
 
